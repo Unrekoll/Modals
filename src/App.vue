@@ -3,7 +3,6 @@
     <div class="wrapper-content">
       <section>
         <div class="container">
-          <!-- first modal window -->
           <button class="btn btnPrimary" @click="modalFirst = !modalFirst">
             Show firstmodal
           </button>
@@ -19,8 +18,6 @@
               </button>
             </div>
           </modals>
-
-          <!-- second modal window -->
           <button
             class="btn btnPrimary"
             @click="modalSecond.show = !modalSecond.show"

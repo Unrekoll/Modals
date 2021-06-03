@@ -36,7 +36,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-// Animation
 .modal-enter {
   opacity: 0
 }
